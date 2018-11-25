@@ -1,6 +1,6 @@
 # VirtX Resources
 
-This is the Resource portal for the VirtX Community of Practice at the University of Sydney. Here we will try to maintain an updated list of free usable resources for classroom VR, MR and AR projects.
+This is the Resource portal for the [VirtX Community of Practice](http://virtx.online) at the University of Sydney. Here we will try to maintain an updated list of free usable resources for classroom VR, MR and AR projects.
 
 ## Information and publications
 
@@ -34,7 +34,7 @@ This is the Resource portal for the VirtX Community of Practice at the Universit
 - [Vuforia](https://www.vuforia.com/) an AR framework for multi-platform devices (Desktop, Mobile, VR Headsets etc).
 
 ## Example code provided by the VirtX team
-- [Movement With Oculus Go Controller in Unity](https://pastebin.com/ESLKiMjc)
+- [Movement With Oculus Go Controller in Unity](OculusGoControllerMovement.cs)
 
 ## 3D model resources
 
@@ -45,3 +45,7 @@ This is the Resource portal for the VirtX Community of Practice at the Universit
 - [Google Cardboad/Daydream development](https://developers.google.com/vr/)
 
 ## Media articles for our members and partners
+
+[Microsoft News on Medical Holography at the University of Sydney](https://news.microsoft.com/en-au/features/medical-imaging-paramedic-training-immersive-learning-era-mixed-reality/)
+
+
