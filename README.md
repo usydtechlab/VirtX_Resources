@@ -14,7 +14,7 @@ This is the Resource portal for the VirtX Community of Practice at the Universit
 
 ### Startups Curently being Incubated and supported by VirtX.
 
-- [Denouement](https://www.youtube.com/watch?v=0CKzjGLtf5w) : A VR startup targeting corporate education on LGBT issues in the workplace
+- [Denouement](https://www.youtube.com/watch?v=0CKzjGLtf5w) : A VR startup targeting corporate education on LGBT issues in the workplace.
 - [Unbound Laboratories](https://unboundlabs.techlab.works/) : A VR simulation platofrm for Wet lab simulations in an immersive and interactive environment. 
 - An as yet un-named startup specialising in holographic warehouse solutions (in collaboration with Swiss Log).
 
