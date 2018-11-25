@@ -12,6 +12,12 @@ This is the Resource portal for the VirtX Community of Practice at the Universit
 
 - [Towards a Long Term Model of Virtual Reality Exergame Exertion](https://dl.acm.org/citation.cfm?id=3079679)
 
+### Startups Curently being Incubated and supported by VirtX.
+
+- [Denouement](https://www.youtube.com/watch?v=0CKzjGLtf5w) : A VR startup targeting corporate education on LGBT issues in the workplace
+- [Unbound Laboratories](https://unboundlabs.techlab.works/) : A VR simulation platofrm for Wet lab simulations in an immersive and interactive environment. 
+- An as yet un-named startup specialising in holographic warehouse solutions (in collaboration with Swiss Log).
+
 ## Videos tutorials and guides
 
 - [Getting started with Unity](https://unity3d.com/learn/get-started)
