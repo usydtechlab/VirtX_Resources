@@ -49,6 +49,10 @@ This is the Resource portal for the [VirtX Community of Practice](http://virtx.o
 - [Accelerometer Arduino Script](Arduino_Scripts/Accelerometer.ino) 
 - [Accelerometer Unity Script](Unity_Scripts/arduinoAccelerometer.cs)
 
+#### Muscle Sensor
+- [Muscle Arduino Script](Arduino_Scripts/Muscle.ino)
+- [Muscle Unity Script](Unity_Scripts/arduinoMuscle.cs)
+
 ## 3D model resources
 - [Human Heart model](3D_Models/anatomical-heart.fbx)
 
