@@ -35,6 +35,9 @@ This is the Resource portal for the [VirtX Community of Practice](http://virtx.o
 
 ## Example code provided by the VirtX team
 - [Movement With Oculus Go Controller in Unity](OculusGoControllerMovement.cs)
+- [Arduino Joystick with Oculus Rift in Unity](arduinoJoy.cs)
+- [Arduino HeartPulseSensor with Oculus Rift in Unity](arduinoPulse.cs)
+- [Arduino Accelerometer with Oculus Rift in Unity](arduinoAccelerometer.cs)
 
 ## 3D model resources
 
