@@ -53,6 +53,10 @@ This is the Resource portal for the [VirtX Community of Practice](http://virtx.o
 - [Muscle Arduino Script](Arduino_Scripts/Muscle.ino)
 - [Muscle Unity Script](Unity_Scripts/arduinoMuscle.cs)
 
+#### Thermistor (Temperature Sensor)
+- [Thermistor Arduino Script](Arduino_Scripts/Temperature.ino)
+- [Thermistor Unity Script](Unity_Scripts/arduinoTemp.cs)
+
 ## 3D model resources
 - [Human Heart model](3D_Models/anatomical-heart.fbx)
 
