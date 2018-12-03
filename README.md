@@ -34,15 +34,25 @@ This is the Resource portal for the [VirtX Community of Practice](http://virtx.o
 - [Vuforia](https://www.vuforia.com/) an AR framework for multi-platform devices (Desktop, Mobile, VR Headsets etc).
 
 ## Example code provided by the VirtX team
-- [Movement With Oculus Go Controller in Unity](OculusGoControllerMovement.cs)
-- [Arduino Joystick with Oculus Rift in Unity](arduinoJoy.cs)
-- [Arduino HeartPulseSensor with Oculus Rift in Unity](arduinoPulse.cs)
-- [Arduino Accelerometer with Oculus Rift in Unity](arduinoAccelerometer.cs)
+### Oculus Go Controller
+- [Movement With Oculus Go Controller in Unity](Unity_Scripts/OculusGoControllerMovement.cs)
+### Arduino meets Unity
+#### Joystick
+- [Joystick Arduino Script](Arduino_Scripts/Joystick.ino) 
+- [Joystick Unity Script](Unity_Scripts/arduinoJoy.cs)
+
+#### Heart Pulse Sensor
+- [Heart Pulse Arduino Script](Arduino_Scripts/Pulse.ino) 
+- [Heart Pulse Unity Script](Unity_Scripts/arduinoPulse.cs)
+
+#### Accelerometer
+- [Accelerometer Arduino Script](Arduino_Scripts/Accelerometer.ino) 
+- [Accelerometer Unity Script](Unity_Scripts/arduinoAccelerometer.cs)
 
 ## 3D model resources
+- [Human Heart model](3D_Models/anatomical-heart.fbx)
 
 ## Other useful software
-
 - [Unity - VR, MR and AR development engine](https://unity3d.com/get-unity/download)
 - [Oculus development](https://developer.oculus.com/)
 - [Google Cardboad/Daydream development](https://developers.google.com/vr/)
