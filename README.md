@@ -53,6 +53,7 @@ This is the Resource portal for the [VirtX Community of Practice](http://virtx.o
 #### Muscle Sensor
 - [Muscle Arduino Script](Arduino_Scripts/Muscle.ino)
 - [Muscle Unity Script](Unity_Scripts/arduinoMuscle.cs)
+- [Muscle + Neopixels Arduino Script](Arduino_Scripts/Muscle_Neopixel.ino)
 
 #### Thermistor (Temperature Sensor)
 - [Thermistor Arduino Script](Arduino_Scripts/Temperature.ino)
