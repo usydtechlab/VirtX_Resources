@@ -44,6 +44,7 @@ This is the Resource portal for the [VirtX Community of Practice](http://virtx.o
 #### Heart Pulse Sensor
 - [Heart Pulse Arduino Script](Arduino_Scripts/Pulse.ino) 
 - [Heart Pulse Unity Script](Unity_Scripts/arduinoPulse.cs)
+- [Heart Pulse + Neopixels Arduino Script](Arduino_Scripts/Pulse_Neopixel.zip)
 
 #### Accelerometer
 - [Accelerometer Arduino Script](Arduino_Scripts/Accelerometer.ino) 
